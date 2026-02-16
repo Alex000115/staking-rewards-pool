@@ -1,0 +1,8 @@
+{
+  "name": "staking-rewards-pool",
+  "version": "1.0.0",
+  "description": "ERC20 Staking Rewards Contract",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
